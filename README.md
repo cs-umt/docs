@@ -58,3 +58,7 @@ A repository to save docs, guidance, tips, etc for computer science students at 
 1. Always google what you don't know
 
 2. Improve your typing ( download those free typing software and type faster like [rapidtyping](https://rapidtyping.com) )
+
+## Projects
+
+todo: list projects available in the org here
