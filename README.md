@@ -4,7 +4,7 @@ A repository to save docs, guidance, tips, etc for computer science students at 
 
 ## Checklist Sampai Habis Degree CS@UMT
 
-### A. Proposed time to complete these: Semester 1 break
+### A. Proposed time to complete these: Semester 1 break or before Semester 3
 
 1. Install VSCode
 2. Learn HTML ( can start from w3school )
@@ -22,7 +22,7 @@ A repository to save docs, guidance, tips, etc for computer science students at 
 
 1. Expect to get comfortable with HTML and CSS
 
-### B. Proposed time to complete these: Semester 2 break
+### B. Proposed time to complete these: Semester 2 break or before Semester 3
 
 #### GitHub
 
@@ -56,3 +56,5 @@ A repository to save docs, guidance, tips, etc for computer science students at 
 ## Tips
 
 1. Always google what you don't know
+
+2. Improve your typing ( download those free typing software and type faster like [rapidtyping](https://rapidtyping.com) )
